@@ -1,2 +1,2 @@
 # webpack-angular
-Sample configuration to run angular with webpack
+Simple configuration to run angular with webpack
